@@ -48,6 +48,9 @@
    - 상품 상세페이지 뷰 작성
    
 ---------------------
+### 데이터 모델링
+>
+<img width="1574" alt="nawekimodeling" src="https://user-images.githubusercontent.com/64876056/96362549-11096a00-1169-11eb-8cd1-da6d2f9961a5.png">
 
 ### 상품 리스트 페이지
 >
@@ -64,7 +67,3 @@
 ### 로그인 페이지
 >
 <img width="1774" alt="스크린샷 2020-10-18 오후 5 05 09" src="https://user-images.githubusercontent.com/64876056/96362547-0fd83d00-1169-11eb-9ca1-3f91df4da951.png">
-
-### 데이터 모델링
->
-<img width="1574" alt="nawekimodeling" src="https://user-images.githubusercontent.com/64876056/96362549-11096a00-1169-11eb-8cd1-da6d2f9961a5.png">
